@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+ul,
+li {
+    list-style-type: none;
+    padding: 0px;
+}
+hr {
+    color: #121415;
+    opacity: 1;
+}
+body,a {
+    font-family: 'Montserrat';
+    background-color: #212428;
+    color: #c4cfde;
+}
+.icon-hover{
+    transform: translateY(0px);
+    transition: 0.5s;
+}
+.icon-hover:hover{
+    transform: translateY(-3px);
+    background: linear-gradient(to right bottom, #212428, #16181c);
+}

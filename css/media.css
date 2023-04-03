@@ -1,0 +1,505 @@
+@media (max-width:575px) {
+    
+    footer .footer-content .footer-title{
+        margin-bottom: 0px;
+    }
+    .form-content{
+        margin-top: 40px;
+    }
+    .form .container .card-info .card-content .title{
+        font-size: 20px !important;
+    }
+    .form .container .card-info .media .social-icons{
+        margin: 24px 0px 24px;
+    }
+    .form .container .card-info .media .social-icons div{
+        margin: 5px;
+    }
+    .form .container .form-content .form-box{
+        margin: 0px;
+        padding: 15px;
+    }
+    .pricing .container .pricing-bar{
+        margin-top: 0px;
+    }
+    .pricing .container .pricing-des{
+        padding: 25px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header{
+        margin: 25px 0px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-right span{
+        margin-top: 30px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-footer{
+        margin-top: 15px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-footer .p-btn{
+        margin: 15px 0px 30px 0px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-left h2{
+        font-size: 22px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body p{
+        margin-bottom: 30px;
+     font-size: 16px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check p{
+        font-size: 13px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check i{
+        font-size: 20px;
+    }
+    .banner-text .welcome {
+        letter-spacing: 1px;
+    }
+
+
+    .banner-text .text {
+        padding-right: 0px !important;
+    }
+
+    .skills-icons {
+        padding: 0px !important;
+    }
+    .section-title .sub-title {
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 1px;
+        margin-bottom: 10px;
+    }
+
+    .section-title .sec-title {
+        font-size: 34px;
+        text-align: center;
+        margin: 0px !important;
+    }
+
+    .service-box,
+    .portfolio-box {
+        padding: 20px !important;
+    }
+
+    .service-box .inner .icon {
+        margin-bottom: 10px !important;
+    }
+
+    .p-main-title h4 {
+        font-size: 20px !important;
+        line-height: 30px !important;
+        padding: 0px 3px;
+    }
+
+    .resume .container .resume-content .resume-des .education-box {
+        border-left: none;
+        padding: 0px;
+    }
+
+    .resume .container .resume-content .resume-des .e-1 .inner::before {
+        display: none;
+    }
+
+    .work-title .title {
+        font-size: 21px !important;
+    }
+
+    .e-1 {
+        padding: 20px !important;
+        margin-top: 30px !important;
+    }
+
+    .education .main-title {
+        font-size: 24px !important;
+    }
+
+    .active-part button {
+        display: none;
+
+    }
+
+    .card-info {
+        padding: 20px !important;
+        margin-right: 0px !important;
+    }
+
+    .card-content .title {
+        font-size: 18px !important;
+    }
+
+    .card-content .subtitle {
+        margin-bottom: 0px !important;
+    }
+
+    .testimonials .work-title-info .title {
+        font-size: 18px !important;
+        margin-bottom: 12px !important;
+    }
+
+    .testimonials .work-title-info {
+        margin-bottom: 25px;
+        ;
+    }
+
+    .testimonials .work-title-info .date {
+        font-size: 12px !important;
+        margin-bottom: 6px !important;
+    }
+
+    .testimonials .card-des {
+        padding: 20px !important;
+    }
+
+    .testimonials .description {
+        font-size: 16px !important;
+        line-height: 28px !important;
+        margin-top: 25px !important;
+    }
+
+    .card-des::after,
+    .card-des::after {
+        display: none;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des {
+        margin-top: 30px;
+    }
+
+    .clients .container .clients-content .language ul li a {
+        height: auto;
+        padding: 20px;
+    }
+    .banner-text .title,
+    .banner-text .name {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+
+}
+
+@media (min-width:576px) {
+   
+.service .container .section-title .sub-title{
+    text-align: center;
+}
+    .form .container .card-info .card-content .title{
+        font-size: 29px !important;
+        margin-top: 20px;
+    }
+    .form .container .form-content .form-box{
+        margin: 0px;
+    }
+    .section-title .sec-title {
+        font-size: 40px;
+        text-align: center;
+        margin: 15px 0 0 !important;
+    }
+    .blog .container .col-12 .portfolio-box .p-content .p-main-title h4{
+        font-size: 23px !important;
+    }
+    .pricing .container .pricing-bar{
+        margin-top: 0px;
+    }
+    .pricing .container .pricing-des{
+        padding: 25px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header{
+        margin: 25px 0px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-right span{
+        margin-top: 30px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-footer{
+        margin-top: 15px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-footer .p-btn{
+        margin: 30px 0px 30px 0px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-left h2{
+        font-size: 27px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body p{
+        margin-bottom: 30px;
+     font-size: 18px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check p{
+        font-size: 14px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check i{
+        font-size: 20px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-right span{
+        margin-top: 30px;
+    }
+
+    .p-main-title h4 {
+        font-size: 20px !important;
+        line-height: 30px !important;
+        padding: 0px 3px;
+    }
+
+    .resume .container .resume-content .resume-des .education-box {
+        border-left: none !important;
+        padding: 0px;
+    }
+
+    .work-title .title {
+        font-size: 21px !important;
+    }
+
+    .e-1 {
+        padding: 30px !important;
+        margin-top: 30px !important;
+    }
+
+    .education .main-title {
+        font-size: 24px !important;
+    }
+
+    .active-part button {
+        display: none;
+
+    }
+
+    .testimonials .work-title .title {
+        font-size: 26px !important;
+    }
+
+    .card-des::after,
+    .card-des::after {
+        display: none;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des {
+        margin-top: 30px;
+    }
+    .section-title .sec-title {
+        font-size: 40px;
+        margin-bottom: 0px !important;
+    }
+    .section-title .title,.banner .banner-text .title .name{
+        font-size: 50px;
+    }
+    .profession{
+        font-size: 40px;
+    }
+}
+
+@media (min-width:768px) {
+    .form .container .card-info .media .social-icons div{
+        margin: 20px;
+    }
+    .form .card-info .card-img{
+        max-width: 100%;
+    }
+    .blog .container .col-12{
+        margin: 30px auto 0px auto;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-header .p-right span{
+        margin-top: 0px;
+    }
+    .section-title .sec-title {
+        font-size: 40px;
+        margin-bottom: 0px !important;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check p{
+        font-size: 16px;
+    }
+    .pricing .container .pricing-des .pricing-inner .p-body p{
+     font-size: 18px;
+    }
+    .profession {
+        font-size: 40px;
+    }
+
+    .banner-text .title,
+    .banner-text .name {
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .service-box {
+        padding: 30px !important;
+    }
+
+    .resume .container .resume-content .resume-area ul li a {
+        font-size: 16px;
+        padding: 25px 7px;
+    }
+
+    .resume .container .resume-content .resume-des .education-box {
+        border-left: 5px solid #17191c !important;
+        padding: 0px 31px;
+    }
+
+    .work-title .title {
+        font-size: 24px !important;
+    }
+
+    .e-1 {
+        margin-top: 50px !important;
+    }
+
+    .e-1:first-child {
+        margin-top: 0px !important;
+    }
+
+    .education .main-title {
+        font-size: 30px !important;
+    }
+
+    .education {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .card-info {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 100% !important;
+        display: flex !important;
+        padding: 30px !important;
+    }
+
+    .card-info .card-img {
+        max-width: 150px;
+        margin-right: 25px;
+        margin-bottom: 0 !important;
+    }
+
+    .testimonials .subtitle {
+        margin-bottom: 0px !important;
+        margin-top: 10px;
+    }
+
+    .testimonials .post {
+        margin-top: 10px;
+    }
+
+    .testimonials .section-title .sec-title {
+        font-size: 40px !important;
+        margin-top: 7px !important;
+    }
+
+    .testimonials .section-title .sub-title {
+        letter-spacing: 1px;
+    }
+    .profession{
+        font-size: 44px;
+    }
+}
+
+@media (min-width:992px) {
+    .resume .container .resume-content .resume-area ul li a {
+        font-size: 18px;
+        padding: 35px 7px;
+    }
+    .blog .container .col-12{
+        margin: 50px 0px 0px;
+    }
+    .pricing .container .pricing-des {
+        padding: 25px 40px;
+    }
+    .banner-text .text {
+        padding-right: 16% !important;
+    }
+
+    .p-80 {
+        padding: 80px 0px 0px 0px;
+    }
+
+    .service-box {
+        padding: 35px 50px 35px 50px !important;
+    }
+
+    .e-1 {
+        padding: 30px 25px !important;
+    }
+
+    .work-title .title {
+        font-size: 24px !important;
+    }
+
+    .education .main-title {
+        font-size: 36px !important;
+    }
+
+    .testimonials .subtitle {
+        margin-top: 0px;
+    }
+
+    .testimonials .post {
+        margin-top: 0px;
+    }
+
+    .card-info {
+        display: inline-block !important;
+    }
+
+    .card-info .card-img {
+        max-width: 100%;
+        margin-bottom: 27px !important;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des .description {
+        margin-top: 25px;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des .work-title .work-title-info {
+        margin-bottom: 15px;
+    }
+
+    .card-des::after,
+    .card-des::after {
+        display: inline-block;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des {
+        margin-top: 115px;
+    }
+}
+
+@media (min-width:1200px) {
+    .pricing .container .pricing-des .pricing-inner .p-body .checks .check p {
+        font-size: 18px;
+    }
+    .testimonials .section-title .sec-title {
+        font-size: 60px !important;
+        margin-top: 15px !important;
+    }
+
+    .testimonials .section-title .sub-title {
+        letter-spacing: 1px;
+    }
+
+    .e-1 {
+        padding: 45px 40px !important;
+        margin-top: 50px !important;
+    }
+
+    .active-part button {
+        display: inline-block;
+
+    }
+
+    .card-info {
+        padding: 30px 30px 40px 30px !important;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des .description {
+        margin-top: 20px;
+    }
+
+    .testimonials .container .active-part .t-content .t-card .t-inner .card-des .work-title .work-title-info {
+        margin-bottom: 10px;
+    }
+    .section-title .sec-title {
+        font-size: 60px;
+        margin-bottom: 0px !important;
+    }
+    .banner-text .title,
+    .banner-text .name {
+        font-size: 60px;
+        line-height: 62px;
+    }
+}
